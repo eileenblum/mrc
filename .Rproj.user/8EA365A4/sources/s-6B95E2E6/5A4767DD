@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519748946234.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5A4767DD",
+    "lastKnownWriteTime" : 1519751386,
+    "last_content_update" : 1519751402912,
+    "path" : "~/Dropbox/Documents/RutgersCourses/DataSci4Ling/mrc/scripts/myscript.R",
+    "project_path" : "scripts/myscript.R",
+    "properties" : {
+        "cursorPosition" : "41,0",
+        "scrollLine" : "30",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
